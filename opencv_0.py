@@ -16,4 +16,4 @@ def display_picture_bw(name):
     
 if __name__ == "__main__":
     #display_picture("malta.jpg")
-    display_picture_bw("malta.jpg")
+    #display_picture_bw("malta.jpg")
