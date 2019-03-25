@@ -6,4 +6,5 @@ class Voiture:
 
 c = Voiture("Laguna","Renault",1956)
 
-print(c.nom)
+if __name__ == "__main__":
+    print(c.nom)
